@@ -1,6 +1,8 @@
 # type-script-nuxt
+[【2019年12月版】Nuxt + TypeScript + ESLint + PrettierとVSCodeで環境構築する方法](https://qiita.com/JDM/items/c60515854dd255d1178d)  
 
-> My glorious Nuxt.js project
+TypeScript + Nuxt + ESLint + Prettier + VSCodeでの環境構築用リポジトリです。  
+現在、公式の動きが二転三転しているので、記事の内容が古くなる可能性がありますのでご注意ください。
 
 ## Build Setup
 
